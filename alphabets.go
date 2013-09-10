@@ -60,3 +60,8 @@ var AlphaBlosum62 = NewAlphabet(
 	'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M',
 	'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z', '-',
 )
+
+//The nucleotide alphabet
+var AlphaNucleotides = NewAlphabet(
+	'A', 'C', 'G', 'T',
+)
